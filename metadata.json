@@ -1,0 +1,6 @@
+{
+  "name": "LinkSnapshot",
+  "description": "Multi-link capture and PDF generation tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
